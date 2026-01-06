@@ -28,11 +28,6 @@ let package = Package(
             exclude: [
                 "lib/CMakeLists.txt",
                 "lib/libsmb2.syms",
-                "lib/Makefile.am",
-                "lib/Makefile.AMIGA",
-                "lib/Makefile.AMIGA_AROS",
-                "lib/Makefile.AMIGA_OS3",
-                "lib/Makefile.PS3_PPU",
                 "lib/ps2",
             ],
             sources: [
